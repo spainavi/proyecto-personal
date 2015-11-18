@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+	background-color: beige;
+}
+iframe{
+	width: 300px;
+	height: 200px;
+}
+iframe.izquierda{
+	float: left;
+}
+iframe.derecha{
+	float: right;
+}
